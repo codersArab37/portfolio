@@ -1,0 +1,139 @@
+{
+    "basics": {
+        "name": "Coders Arab",
+        "label": "Web Development Agency",
+        "email": "codersarab37@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web Development Agency",
+        "job2": "",
+        "description": "Welcome to Coders Arab! We specialize in cutting-edge software solutions and expert training to empower businesses and individuals. Whether it's building robust applications or upskilling your team, we're here to help you succeed in the digital world.",
+        "summary": "based in Damascus, Syria, we are a web development agency that specializes in building high-quality, user-friendly websites and applications. We offer a range of services, including website design, development, and maintenance, as well as training and mentoring for our clients. Our team is made up of experienced professionals who have a passion for delivering high-quality work.",
+        "keywords": "CodersArab,software,solutions,training,agency,development,web,developer,full-stack,Laravel,React,PHP,MERN,technology,innovation,coding,programming,tech,UI,UX,cloud,AI,enterprise,education,mentorship,startup",
+        "url": "https://taniyow.vercel.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Damascus",
+            "country": "Syria",
+            "countryCode": "PH",
+            "region": "Pampanga"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "codersarab37@gmail.com",
+                "url": "mailto:codersarab37@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "coders-arab-1116b0351",
+                "url": "https://www.linkedin.com/in/coders-arab-1116b0351/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "codersArab",
+                "url": "https://github.com/codersArab",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "coders_Arab",
+                "url": "https://gitlab.com/coders_Arab",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Telegram",
+                "username": "@CodersArab",
+                "url": "https://t.me/CodersArab",
+                "x_icon": "fab fa-telegram-plane"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
